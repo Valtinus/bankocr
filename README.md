@@ -1,11 +1,16 @@
 # Solution to the BankOCR problem
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This my react app solutiuon for the Bank OCR problem.
 
-## Available Scripts
+## Usage
 
-In the project directory, you can run:
+Clone the repository with:
+### `git clone https://github.com/Valtinus/bankocr.git`
 
+Install npm:
+### `npm i`
+
+Run the code:
 ### `npm start`
 
 Runs the app in the development mode.\
